@@ -156,26 +156,26 @@ My name is **Med Iheb Hichri**, a passionate data science enthusiast born in **J
 
 ---
 
-## 🔥 GitHub Statistics
+## 🔥 Professional Achievements & Projects
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&langs_count=8)
+### 📊 My Development Journey
+**🔭 Active Projects:** Data Science & Machine Learning Solutions  
+**🌱 Currently Learning:** Advanced MLOps, Cloud Architecture, Deep Learning  
+**👯 Open to Collaborate:** AI/ML Research, Open Source Contributions  
+**💬 Expertise Areas:** Data Science, Machine Learning, IoT, Automation  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+---
+
+### 🏆 Key Accomplishments
+- 🎓 **DAAD Exchange Program** - International Academic Excellence
+- 🚀 **Industrial Computing & Automation** - Engineering Foundation
+- 🌍 **Cross-Cultural Experience** - Germany Academic Exchange
+- 📈 **Data Science Specialization** - ESPRIT Advanced Studies
+- 🔧 **Industry Internships** - National & International Companies
 
 </div>
-
-<!-- Alternative: Simple GitHub metrics without external services -->
-<!--
-**📊 My GitHub Journey:**
-- 🔭 Currently working on Data Science and ML projects
-- 🌱 Learning advanced ML algorithms and cloud technologies
-- 👯 Looking to collaborate on AI/ML research projects
-- 💬 Ask me about Data Science, Machine Learning, and IoT
--->
 
 ---
 
