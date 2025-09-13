@@ -160,13 +160,22 @@ My name is **Med Iheb Hichri**, a passionate data science enthusiast born in **J
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ihebhichri&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ihebhichri&layout=compact&theme=tokyonight&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ihebhichri&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
 
 </div>
+
+<!-- Alternative: Simple GitHub metrics without external services -->
+<!--
+**📊 My GitHub Journey:**
+- 🔭 Currently working on Data Science and ML projects
+- 🌱 Learning advanced ML algorithms and cloud technologies
+- 👯 Looking to collaborate on AI/ML research projects
+- 💬 Ask me about Data Science, Machine Learning, and IoT
+-->
 
 ---
 
